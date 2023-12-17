@@ -1,0 +1,11 @@
+.cards{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.photos{
+  width: 250px;
+}
